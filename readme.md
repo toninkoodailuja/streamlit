@@ -9,3 +9,5 @@ For the correlation analysis gaming_hours and grades were used. The Pearson corr
 Prediction Model
 
 A Linear Regression model was chosen because the grades variable is numerical.
+
+Run code on Streamlit Cloud: https://latework.streamlit.app/
